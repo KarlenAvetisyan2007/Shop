@@ -44,7 +44,7 @@ section{
 }
 
 .heading span{
-    background: var(--orange);
+    background: red;
     color:#fff;
     display: inline-block;
     padding:.5rem 3rem;
@@ -64,7 +64,7 @@ section{
 }
 
 .btn:hover{
-    background: var(--orange);
+    background: red;
     color:#fff;
 }
 
@@ -78,6 +78,7 @@ section{
     padding:2rem 9%;
     background:#fff;
     box-shadow: var(--box-shadow);
+    box-shadow: rgba(0, 0, 6, 1.0);
 }
 
 .header .logo{
@@ -97,7 +98,7 @@ section{
 }
 
 .header .navbar a:hover{
-    color:var(--orange);
+    color: red;
 }
 
 .header .icons div{
@@ -106,7 +107,7 @@ section{
     line-height: 4.5rem;
     border-radius: .5rem;
     background: #eee;
-    color:var(--black);
+    color: red;
     font-size: 2rem;
     margin-left: .3rem;
     cursor: pointer;
@@ -114,7 +115,7 @@ section{
 }
 
 .header .icons div:hover{
-    background: var(--orange);
+    background: red;
     color:#fff;
 }
 
@@ -269,7 +270,7 @@ section{
 }
 
 .header .login-form p a{
-    color:var(--orange);
+    color: red;
     text-decoration: underline;
 }
 
@@ -295,11 +296,6 @@ section{
     color:var(--black);
     font-size: 3rem;
 }
-
-.home .content h3 span{
-    color:var(--orange);
-}
-
 .home .content p{
     color:var(--light-color);
     font-size: 1.7rem;
@@ -388,7 +384,7 @@ section{
 
 .products .product-slider .box .stars i{
     font-size: 1.7rem;
-    color:var(--orange);
+    color:var(--black);
     padding:.5rem 0;
 }
 
@@ -471,7 +467,7 @@ section{
 }
 
 .review .review-slider .box .stars i{
-    color:var(--orange);
+    color: red;
     font-size: 1.7rem;
 }
 
@@ -517,7 +513,7 @@ section{
 }
 
 .blogs .box-container .box .content .icons a i{
-    color:var(--orange);
+    color:var(--black);
     padding-right: .5rem;
 }
 
@@ -552,18 +548,18 @@ section{
 }
 
 .footer .box-container .box h3 i{
-    color:var(--orange);
+    color: red;
 }
 
 .footer .box-container .box .links{
     display: block;
     font-size: 1.5rem;
-    color:var(--light-color);
+    color: red;
     padding:1rem 0;
 }
 
 .footer .box-container .box .links i{
-    color:var(--orange);
+    color: red;
     padding-right: .5rem;
 }
 
@@ -575,7 +571,7 @@ section{
 .footer .box-container .box p{
     line-height: 1.8;
     font-size: 1.5rem;
-    color:var(--light-color);
+    color: red;
     padding:1rem 0;
 }
 
@@ -585,14 +581,14 @@ section{
     line-height:4rem;
     border-radius: .5rem;
     font-size: 2rem;
-    color:var(--black);
+    color: red;
     margin-right: .2rem;
     background: #eee;
     text-align: center;
 }
 
 .footer .box-container .box .share a:hover{
-    background: var(--orange);
+    color: red;
     color: #fff;
 }
 
@@ -624,7 +620,7 @@ section{
 }
 
 .footer .credit span{
-    color:var(--orange);
+    color: red;
 }
 
 
